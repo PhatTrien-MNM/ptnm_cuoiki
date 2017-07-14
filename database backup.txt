@@ -18,6 +18,17 @@
          MaTB varchar(10) primary key,
          TenTB nvarchar(50) not null
         )
+- Bảng TBPHONG (Thiết Bị Phòng)
+  use QLPH
+   go
+     create table TBPHONG
+      (
+        MaTB varchar(10) not null,
+        MaPhong varchar(10) not null,
+        SoLuong int,
+        DonViTinh nvarchar(50) not null,
+        CONSTRAINT Ma PRIMARY KEY (MaTB, MaPhong)
+       );
 
 
 
