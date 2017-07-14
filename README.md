@@ -20,3 +20,9 @@ Xây dựng hoàn thiện phần mềm quản lí phòng họp giúp việc qu�
 	<li>Mục tiêu phát triển tương lai: hoàn thành phần mềm một cách tốt nhất theo yêu cầu của khách hàng, cung cấp mã nguồn cho các nhà phát triển để sử dụng phát triển mã nguồn đồng thời tiếp tục xây dựng phát triển các dự án mới trong tương lai</li>
 </ul>
 
+**Thông tin về giấy phép**
+<ul>Giấy phép Mit</ul>
+<ul>
+	<li></li>
+</ul>
+
