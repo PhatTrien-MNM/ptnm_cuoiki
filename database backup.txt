@@ -1,4 +1,14 @@
 ﻿##File backup Database Quản lý phòng họp##
-<ul>
+-Bảng PHONGHOP (Phòng họp)
+ 
+ use QLPH
+  go
+    create table PHONGHOP
+      (
+         MaPhong varchar(10) primary key,
+         Tang nvarchar(50) not null,
+         Size nvarchar(50) not null
+      )
 
-</ul>
+
+
