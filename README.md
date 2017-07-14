@@ -24,5 +24,6 @@ Xây dựng hoàn thiện phần mềm quản lí phòng họp giúp việc qu�
 <ul>Giấy phép Mit</ul>
 <ul>
 	<li>Giấy phép MIT có nguồn gốc từ viện công nghệ Massachusetts</li>
+	<li>Tên gọi khác X11, giấy phép MIT được sử dụng nhiều cho các phần mềm đặc biệt trong hệ thống window</li>
 </ul>
 
