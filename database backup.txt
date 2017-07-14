@@ -9,6 +9,15 @@
          Tang nvarchar(50) not null,
          Size nvarchar(50) not null
       )
+- Bảng THIETBI (Thiết Bị)
+  
+  use QLPH
+   go
+       create table THIETBI
+        (
+         MaTB varchar(10) primary key,
+         TenTB nvarchar(50) not null
+        )
 
 
 
