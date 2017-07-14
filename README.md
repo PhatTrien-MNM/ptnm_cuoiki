@@ -23,6 +23,6 @@ Xây dựng hoàn thiện phần mềm quản lí phòng họp giúp việc qu�
 **Thông tin về giấy phép**
 <ul>Giấy phép Mit</ul>
 <ul>
-	<li></li>
+	<li>Giấy phép MIT có nguồn gốc từ viện công nghệ Massachusetts</li>
 </ul>
 
