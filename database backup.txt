@@ -41,6 +41,20 @@
         Email nvarchar(50) not null,
         SDT int
       );
+-Bảng NGUOIDUNG (Người Dùng)
+   use QLPH
+    go
+      create table NGUOIDUNG
+         (
+             MaND varchar(10) primary key,
+             HoTenND nvarchar(50) not null,
+             GioiTinh bit,
+             DiaChi nvarchar(50) not null,
+             Email nvarchar(50) not null,
+             SDT int,
+             FOREIGN KEY (MaPhong) REFERENCES PHONGHOP(MaPhong)
+
+           );
 
 
 
