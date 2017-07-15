@@ -12,16 +12,4 @@ Lớp thứ ba:Data Access Layer(nơi lưu trữ và trích xuất dữ liệu t
 </li>
 </ul>
 
-<ul>
-Chú thích
-</ul>
-<ul>
-<li>
-DataTable là dùng để lưu trữ dữ liệu.
-</li>
-<li>ExcuteNonQuery dùng để thực thi các câu truy vấn như INSERT, DELETE, UPDATE. nó trả về kiểu int chính là số dòng trong table của database bị thay đổi bởi 3 lệnh trên</li>
-<li>
-DataGridview là control dùng để hiển thị dữ liệu lên trên giao diện
-</li>
-</ul>
 
