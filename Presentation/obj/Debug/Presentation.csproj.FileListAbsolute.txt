@@ -1,0 +1,42 @@
+E:\visual studio 2012\quanLyPhongHop\QuanLyPhongHop\bin\Debug\QuanLyPhongHop.exe.config
+E:\visual studio 2012\quanLyPhongHop\QuanLyPhongHop\bin\Debug\QuanLyPhongHop.exe
+E:\visual studio 2012\quanLyPhongHop\QuanLyPhongHop\bin\Debug\QuanLyPhongHop.pdb
+E:\visual studio 2012\quanLyPhongHop\QuanLyPhongHop\bin\Debug\BusinessLogic.dll
+E:\visual studio 2012\quanLyPhongHop\QuanLyPhongHop\bin\Debug\DataAccess.dll
+E:\visual studio 2012\quanLyPhongHop\QuanLyPhongHop\bin\Debug\BusinessLogic.pdb
+E:\visual studio 2012\quanLyPhongHop\QuanLyPhongHop\bin\Debug\DataAccess.pdb
+E:\visual studio 2012\quanLyPhongHop\QuanLyPhongHop\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+E:\visual studio 2012\quanLyPhongHop\QuanLyPhongHop\obj\Debug\QuanLyPhongHop.NguoiDung.resources
+E:\visual studio 2012\quanLyPhongHop\QuanLyPhongHop\obj\Debug\QuanLyPhongHop.Phong.resources
+E:\visual studio 2012\quanLyPhongHop\QuanLyPhongHop\obj\Debug\QuanLyPhongHop.ThanhVien.resources
+E:\visual studio 2012\quanLyPhongHop\QuanLyPhongHop\obj\Debug\QuanLyPhongHop.ThietBi.resources
+E:\visual studio 2012\quanLyPhongHop\QuanLyPhongHop\obj\Debug\QuanLyPhongHop.ThietBiPhong.resources
+E:\visual studio 2012\quanLyPhongHop\QuanLyPhongHop\obj\Debug\QuanLyPhongHop.TrangChinh.resources
+E:\visual studio 2012\quanLyPhongHop\QuanLyPhongHop\obj\Debug\QuanLyPhongHop.Properties.Resources.resources
+E:\visual studio 2012\quanLyPhongHop\QuanLyPhongHop\obj\Debug\Presentation.csproj.GenerateResource.Cache
+E:\visual studio 2012\quanLyPhongHop\QuanLyPhongHop\obj\Debug\QuanLyPhongHop.exe
+E:\visual studio 2012\quanLyPhongHop\QuanLyPhongHop\obj\Debug\QuanLyPhongHop.pdb
+D:\NĂM 3 (II)\Phần mềm mã nguồn mở (năm 3) (UBUNTU)\cuoi kì\QuanLyPhongHop\QuanLyPhongHop\bin\Debug\QuanLyPhongHop.exe.config
+D:\NĂM 3 (II)\Phần mềm mã nguồn mở (năm 3) (UBUNTU)\cuoi kì\QuanLyPhongHop\QuanLyPhongHop\obj\Debug\QuanLyPhongHop.exe
+D:\NĂM 3 (II)\Phần mềm mã nguồn mở (năm 3) (UBUNTU)\cuoi kì\QuanLyPhongHop\QuanLyPhongHop\obj\Debug\QuanLyPhongHop.pdb
+D:\NĂM 3 (II)\Phần mềm mã nguồn mở (năm 3) (UBUNTU)\cuoi kì\QuanLyPhongHop\QuanLyPhongHop\bin\Debug\QuanLyPhongHop.exe
+D:\NĂM 3 (II)\Phần mềm mã nguồn mở (năm 3) (UBUNTU)\cuoi kì\QuanLyPhongHop\QuanLyPhongHop\bin\Debug\QuanLyPhongHop.pdb
+D:\NĂM 3 (II)\Phần mềm mã nguồn mở (năm 3) (UBUNTU)\cuoi kì\QuanLyPhongHop\QuanLyPhongHop\bin\Debug\BusinessLogic.dll
+D:\NĂM 3 (II)\Phần mềm mã nguồn mở (năm 3) (UBUNTU)\cuoi kì\QuanLyPhongHop\QuanLyPhongHop\bin\Debug\DataAccess.dll
+D:\NĂM 3 (II)\Phần mềm mã nguồn mở (năm 3) (UBUNTU)\cuoi kì\QuanLyPhongHop\QuanLyPhongHop\bin\Debug\BusinessLogic.pdb
+D:\NĂM 3 (II)\Phần mềm mã nguồn mở (năm 3) (UBUNTU)\cuoi kì\QuanLyPhongHop\QuanLyPhongHop\bin\Debug\DataAccess.pdb
+D:\NĂM 3 (II)\Phần mềm mã nguồn mở (năm 3) (UBUNTU)\cuoi kì\QuanLyPhongHop\QuanLyPhongHop\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+D:\NĂM 3 (II)\Phần mềm mã nguồn mở (năm 3) (UBUNTU)\cuoi kì\QuanLyPhongHop\QuanLyPhongHop\obj\Debug\QuanLyPhongHop.NguoiDung.resources
+D:\NĂM 3 (II)\Phần mềm mã nguồn mở (năm 3) (UBUNTU)\cuoi kì\QuanLyPhongHop\QuanLyPhongHop\obj\Debug\QuanLyPhongHop.Phong.resources
+D:\NĂM 3 (II)\Phần mềm mã nguồn mở (năm 3) (UBUNTU)\cuoi kì\QuanLyPhongHop\QuanLyPhongHop\obj\Debug\QuanLyPhongHop.ThanhVien.resources
+D:\NĂM 3 (II)\Phần mềm mã nguồn mở (năm 3) (UBUNTU)\cuoi kì\QuanLyPhongHop\QuanLyPhongHop\obj\Debug\QuanLyPhongHop.ThietBi.resources
+D:\NĂM 3 (II)\Phần mềm mã nguồn mở (năm 3) (UBUNTU)\cuoi kì\QuanLyPhongHop\QuanLyPhongHop\obj\Debug\QuanLyPhongHop.ThietBiPhong.resources
+D:\NĂM 3 (II)\Phần mềm mã nguồn mở (năm 3) (UBUNTU)\cuoi kì\QuanLyPhongHop\QuanLyPhongHop\obj\Debug\QuanLyPhongHop.TrangChinh.resources
+D:\NĂM 3 (II)\Phần mềm mã nguồn mở (năm 3) (UBUNTU)\cuoi kì\QuanLyPhongHop\QuanLyPhongHop\obj\Debug\QuanLyPhongHop.Properties.Resources.resources
+D:\NĂM 3 (II)\Phần mềm mã nguồn mở (năm 3) (UBUNTU)\cuoi kì\QuanLyPhongHop\QuanLyPhongHop\obj\Debug\Presentation.csproj.GenerateResource.Cache
+D:\NĂM 3 (II)\Phần mềm mã nguồn mở (năm 3) (UBUNTU)\cuoi kì\QuanLyPhongHop(1)\QuanLyPhongHop\bin\Debug\QuanLyPhongHop.exe.config
+D:\NĂM 3 (II)\Phần mềm mã nguồn mở (năm 3) (UBUNTU)\cuoi kì\QuanLyPhongHop(1)\QuanLyPhongHop\obj\Debug\QuanLyPhongHop.exe
+D:\NĂM 3 (II)\Phần mềm mã nguồn mở (năm 3) (UBUNTU)\cuoi kì\QuanLyPhongHop(1)\QuanLyPhongHop\obj\Debug\QuanLyPhongHop.pdb
+C:\Users\lekimloitcu\Desktop\QuanLyPhongHop(1)\QuanLyPhongHop\bin\Debug\QuanLyPhongHop.exe.config
+C:\Users\lekimloitcu\Desktop\QuanLyPhongHop(1)\QuanLyPhongHop\obj\Debug\QuanLyPhongHop.exe
+C:\Users\lekimloitcu\Desktop\QuanLyPhongHop(1)\QuanLyPhongHop\obj\Debug\QuanLyPhongHop.pdb
