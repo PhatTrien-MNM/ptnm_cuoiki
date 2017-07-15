@@ -37,7 +37,7 @@ namespace BusinessLogic
              return dk;
 
          }
-         public DataTable comboxTB()
+         public DataTable  comboxTB()
          {
              string sql = " select * from thietbi";
              DataTable db = new DataTable();
