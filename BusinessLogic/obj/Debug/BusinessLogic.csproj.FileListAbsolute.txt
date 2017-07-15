@@ -1,0 +1,14 @@
+E:\visual studio 2012\QuanLyPhongHop\BusinessLogic\bin\Debug\BusinessLogic.dll
+E:\visual studio 2012\QuanLyPhongHop\BusinessLogic\bin\Debug\BusinessLogic.pdb
+E:\visual studio 2012\QuanLyPhongHop\BusinessLogic\bin\Debug\DataAccess.dll
+E:\visual studio 2012\QuanLyPhongHop\BusinessLogic\bin\Debug\DataAccess.pdb
+E:\visual studio 2012\QuanLyPhongHop\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+E:\visual studio 2012\QuanLyPhongHop\BusinessLogic\obj\Debug\BusinessLogic.dll
+E:\visual studio 2012\QuanLyPhongHop\BusinessLogic\obj\Debug\BusinessLogic.pdb
+D:\NĂM 3 (II)\Phần mềm mã nguồn mở (năm 3) (UBUNTU)\cuoi kì\QuanLyPhongHop(1)\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\NĂM 3 (II)\Phần mềm mã nguồn mở (năm 3) (UBUNTU)\cuoi kì\QuanLyPhongHop(1)\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\NĂM 3 (II)\Phần mềm mã nguồn mở (năm 3) (UBUNTU)\cuoi kì\QuanLyPhongHop(1)\BusinessLogic\bin\Debug\DataAccess.dll
+D:\NĂM 3 (II)\Phần mềm mã nguồn mở (năm 3) (UBUNTU)\cuoi kì\QuanLyPhongHop(1)\BusinessLogic\bin\Debug\DataAccess.pdb
+D:\NĂM 3 (II)\Phần mềm mã nguồn mở (năm 3) (UBUNTU)\cuoi kì\QuanLyPhongHop(1)\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+D:\NĂM 3 (II)\Phần mềm mã nguồn mở (năm 3) (UBUNTU)\cuoi kì\QuanLyPhongHop(1)\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\NĂM 3 (II)\Phần mềm mã nguồn mở (năm 3) (UBUNTU)\cuoi kì\QuanLyPhongHop(1)\BusinessLogic\obj\Debug\BusinessLogic.pdb
