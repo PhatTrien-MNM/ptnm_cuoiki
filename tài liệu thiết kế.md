@@ -10,4 +10,8 @@ a)	Đặc tả hệ thống.
 		+Quản lý thành viên.
 		+Quản lý thiết bị.
 		+Quản lý đăng kí sử dụng phòng họp.
+	-Các tác nhân.
+		+Người dùng: thầy cô trong trường có nhu cầu đăng kí sử dụng phòng họp.
+		+Người quản trị là người điều hành và kiểm soát toàn bộ hệ thống.
+
 
