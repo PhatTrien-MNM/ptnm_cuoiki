@@ -44,6 +44,7 @@
 
 		-Sơ đồ phân rã chức năng.
 			
+![image](https://user-images.githubusercontent.com/27798732/28238451-ae947bf8-697d-11e7-9aad-dcdf2fdeccfd.png)
 			
 
 
