@@ -23,7 +23,12 @@ Quản lý người dùng
 Thông tin của người dùng phòng họp như mã người dùng, học tên người dùng, giới tính, địa chỉ, email, số điện thoại, mã phòng người dùng đã sử dụng 
 Các chức năng như hiển thị, thêm , xóa, sửa thông tin giúp dễ dàng kiểm soát người đã sử dụng, thường xuyên cập nhật 
 
+Quản lý thiết bị 
 
+Giúp có thể dễ dàng kiểm soát các thiết bị có trong công ty 
+Các chức năng như hiển thị, thêm, xóa, sửa thông tin để cập nhật thông tin giúp công ty có thể đầu tư thêm các sản phẩm mới phù hợp với nhu cầu 
+
+Quản lý phòng họp
 
 
 
