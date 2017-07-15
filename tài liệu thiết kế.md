@@ -45,6 +45,11 @@
 		-Sơ đồ phân rã chức năng.
 			
 ![image](https://user-images.githubusercontent.com/27798732/28238451-ae947bf8-697d-11e7-9aad-dcdf2fdeccfd.png)
+		-Sơ đồ luồng dữ liệu(DFD).
+![image](https://user-images.githubusercontent.com/27798732/28238466-19e40842-697e-11e7-93d0-eb434bb02cbc.png)
+		-Mô hình thực thể - quan hệ. (ERD).
+![image](https://user-images.githubusercontent.com/27798732/28238472-4b4cf6c8-697e-11e7-92cc-20bfcab3a591.png)
+
 			
 
 
