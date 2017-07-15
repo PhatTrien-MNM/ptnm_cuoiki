@@ -42,9 +42,8 @@
 		<ul>Quản lý đăng kí sử dụng phòng họp:</ul>
 		<li>Thành viên đăng nhập vào hệ thống để tiến hành đăng kí sử dụng phòng họp và có thể đưa ra đánh giá về chất lượng và các dịch vụ.</li>
 
-	<strong>-Đặc tả sử dụng.</strong>
-	
-			
+		<ul>-Đặc tả sử dụng.</ul>
+			![image](https://user-images.githubusercontent.com/27798732/28238264-1d63fd78-697a-11e7-9fe1-6359a5ba7ac5.png)
 
 
 
