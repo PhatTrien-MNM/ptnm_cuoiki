@@ -13,5 +13,12 @@ a)	Đặc tả hệ thống.
 	-Các tác nhân.
 		+Người dùng: thầy cô trong trường có nhu cầu đăng kí sử dụng phòng họp.
 		+Người quản trị là người điều hành và kiểm soát toàn bộ hệ thống.
+	-Sử dụng.
+		+Quản lý tài khoản( đăng nhập, hiển thi thông tin tài khoản thành viên, thêm, sửa, xóa thành viên)
+		+Quản lý phòng họp( thêm, sửa, xóa, hiển thị phòng họp)
+		+Quản lý thành viên( hiển thị danh sách phòng, đánh giá phòng, đăng kí sử dụng phòng họp).
+		+Quản lý thiết bị( thêm, sửa, xóa thiết bị).
+		+Quản lý đăng kí sử dụng phòng họp.
+
 
 
