@@ -1,6 +1,6 @@
-﻿I.	TÀI LIỆU THIẾT KẾ.
-1.	Phân tích và thiết kế hệ thống.
-a)	Đặc tả hệ thống.
+﻿**TÀI LIỆU THIẾT KẾ.**
+<ul>Phân tích và thiết kế hệ thống.
+Đặc tả hệ thống.
 	-Khảo sát:
 		Bài toán: Quản lý phòng họp Trường Đại Học Thông Tin Liên Lạc.
 		<ul>Xây dựng hệ thống quản lý phòng họp cho Trường Đại Học Thông Tin Liên Lạc.</ul>
@@ -20,5 +20,5 @@ a)	Đặc tả hệ thống.
 		<li>Quản lý thiết bị( thêm, sửa, xóa thiết bị).</li>
 		<li>Quản lý đăng kí sử dụng phòng họp.</li>
 
-
+</ul>
 
