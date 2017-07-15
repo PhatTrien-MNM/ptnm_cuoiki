@@ -43,7 +43,7 @@
 		<li>Thành viên đăng nhập vào hệ thống để tiến hành đăng kí sử dụng phòng họp và có thể đưa ra đánh giá về chất lượng và các dịch vụ.</li>
 
 		
-	<strong>- Sơ đồ phân rã chức năng BFD</strong>
+	<u>- Sơ đồ phân rã chức năng BFD</u>
 			
 
 
