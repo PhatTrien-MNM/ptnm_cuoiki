@@ -45,7 +45,7 @@
 		<br>
 		<br>
 		<strong> Sơ đồ phân rã chức năng(BFD)</strong>
-			file:///C:/Users/HDN%20X10%20TSBD/Pictures/phan%20ra%20chuc%20nang.png
+			
 
 
 
