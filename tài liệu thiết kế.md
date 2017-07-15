@@ -1,5 +1,5 @@
 ﻿**TÀI LIỆU THIẾT KẾ.**
-<ul><u>Phân tích và thiết kế hệ thống.</u><br>
+<ul><strong>Phân tích và thiết kế hệ thống.</strong><br>
 <u>Đặc tả hệ thống.</u>
 	-Khảo sát:
 		Bài toán: Quản lý phòng họp Trường Đại Học Thông Tin Liên Lạc.
