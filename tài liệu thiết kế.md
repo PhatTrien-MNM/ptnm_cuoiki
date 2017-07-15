@@ -19,6 +19,13 @@
 		<li>Quản lý thành viên( hiển thị danh sách phòng, đánh giá phòng, đăng kí sử dụng phòng họp).</li>
 		<li>Quản lý thiết bị( thêm, sửa, xóa thiết bị).</li>
 		<li>Quản lý đăng kí sử dụng phòng họp.</li>
+	<strong>-Đặc tả sử dụng.</strong>
+		<ul>Quản lý tài khoản: Được người dùng để quản lý người dùng.</ul>
+		<ul>Dòng sự kiện chính:</ul>
+		<li>Khi muốn thêm tài khoản, hoặc có thể thay đổi thông tin tài khoản người dùng cần quản lý.</li>
+		<li>Người quản trị đăng nhập vào hệ thống bằng tài khoản ( quyền admin) lựa chọn từng chức năng phù hợp với yêu cầu thêm, sửa, xóa và hiển thị.</li>
+		<li>Người quản trị có thể xem thông tin về tài khoản, quyền hạn của người dùng.</li>
+
 
 </ul>
 
