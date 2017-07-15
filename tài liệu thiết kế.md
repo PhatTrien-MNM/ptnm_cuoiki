@@ -25,6 +25,13 @@
 		<li>Khi muốn thêm tài khoản, hoặc có thể thay đổi thông tin tài khoản người dùng cần quản lý.</li>
 		<li>Người quản trị đăng nhập vào hệ thống bằng tài khoản ( quyền admin) lựa chọn từng chức năng phù hợp với yêu cầu thêm, sửa, xóa và hiển thị.</li>
 		<li>Người quản trị có thể xem thông tin về tài khoản, quyền hạn của người dùng.</li>
+		<ul>Quản lý phòng họp: Mô tả quy trình thuê- trả phòng của phòng họp.</ul>
+		<ul>Dòng sự kiện chính:</ul>
+		<li>Sử dụng khi có người thuê phòng.</li>
+		<li>Thành viên có thể xem và kiểm tra danh sách các phòng còn trống.</li>
+		<li>Thành viên lựa chọn phòng muốn dùng.</li>
+		<li>Thành viên lựa chọn giờ thuê phòng và kết thúc.</li>
+
 
 
 </ul>
