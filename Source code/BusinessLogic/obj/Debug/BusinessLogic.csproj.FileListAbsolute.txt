@@ -1,0 +1,7 @@
+E:\visual studio 2012\QuanLyPhongHop\BusinessLogic\bin\Debug\BusinessLogic.dll
+E:\visual studio 2012\QuanLyPhongHop\BusinessLogic\bin\Debug\BusinessLogic.pdb
+E:\visual studio 2012\QuanLyPhongHop\BusinessLogic\bin\Debug\DataAccess.dll
+E:\visual studio 2012\QuanLyPhongHop\BusinessLogic\bin\Debug\DataAccess.pdb
+E:\visual studio 2012\QuanLyPhongHop\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+E:\visual studio 2012\QuanLyPhongHop\BusinessLogic\obj\Debug\BusinessLogic.dll
+E:\visual studio 2012\QuanLyPhongHop\BusinessLogic\obj\Debug\BusinessLogic.pdb
