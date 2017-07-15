@@ -4,9 +4,13 @@ Phiên bản 1 phần mềm " quản lý phòng họp" được thực hiện b�
 Nhóm 2 
 Lớp DHCN1B
 Trường Đại Học Thông Tin Liên Lạc
+
 Cấu trúc phần mềm 
+
 Phần mềm gồm có 
+
 Form Giới Thiệu
+
 Thông qua form giới thiệu sẽ được giới thiệu sơ lượt về sinh viên thực hiện , tên đề tài 
 
 Form đăng nhập 
