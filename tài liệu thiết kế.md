@@ -42,6 +42,11 @@
 		<ul>Quản lý đăng kí sử dụng phòng họp:</ul>
 		<li>Thành viên đăng nhập vào hệ thống để tiến hành đăng kí sử dụng phòng họp và có thể đưa ra đánh giá về chất lượng và các dịch vụ.</li>
 
+		<br>
+		<br>
+		<strong> Sơ đồ phân rã chức năng(BFD)</strong>
+			file:///C:/Users/HDN%20X10%20TSBD/Pictures/phan%20ra%20chuc%20nang.png
+
 
 
 
