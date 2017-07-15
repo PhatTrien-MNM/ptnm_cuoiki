@@ -39,6 +39,8 @@
 		<ul>Quản lý thiết bị:</ul>
 		<ul>Dòng sự kiện chính:</ul>
 		<li>Admin đăng nhập vào hệ thống bằng tài khoản của mình lựa chọn chức năng phù hợp với yêu cầu: thêm, xóa, sửa, hiển thị.</li>
+		<ul>Quản lý đăng kí sử dụng phòng họp:</ul>
+		<li>Thành viên đăng nhập vào hệ thống để tiến hành đăng kí sử dụng phòng họp và có thể đưa ra đánh giá về chất lượng và các dịch vụ.</li>
 
 
 
