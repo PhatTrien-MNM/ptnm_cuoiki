@@ -31,6 +31,13 @@
 		<li>Thành viên có thể xem và kiểm tra danh sách các phòng còn trống.</li>
 		<li>Thành viên lựa chọn phòng muốn dùng.</li>
 		<li>Thành viên lựa chọn giờ thuê phòng và kết thúc.</li>
+		<ul>Quản lý người dùng:</ul>
+		<ul>Dòng sự kiện chính:</ul>
+		<li>Khi muốn thêm thành viên, hoặc có sự thay đổi về thông tin thành viên, hoặc xóa thông tin , hiển thịn thông tin thành viên.</li>
+		<li>Nếu lựa chọn xóa yêu cầu nhập chính xác địa chỉ ID thành viên sau đó lựa chọn xóa,thì thông tin sẽ bị xóa khỏi CSDL.</li>
+		<li>Nếu lựa chọn tìm kiếm yêu cầu nhập chính xác mã thành viên, sau đó chọn tìm kiếm thì hệ thống sẽ đưa ra thông tin thành viên đó.</li>
+
+
 
 
 
