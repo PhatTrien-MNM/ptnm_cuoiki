@@ -30,6 +30,13 @@ Các chức năng như hiển thị, thêm, xóa, sửa thông tin để cập n
 
 Quản lý phòng họp
 
+Quản lý các thông tin về phòng họp đã có trong công ty như mã phòng họp, số tầng, kích cở của phòng họp. 
+Các chức năng như hiển thị, thêm, xóa, sửa các thông tin
+
+Quản lý trang thiết bị phòng họp 
+
+Quản lý được trong phòng họp gồm những thiết bị nào, số lượng các thiết bị trong phòng họp
+Các chức năng như thêm, xóa, sửa  các trang thiết bị trong phòng họp 
 
 
 
