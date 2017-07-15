@@ -11,3 +11,17 @@ Lớp thứ hai:Business Logic Layer(thực hiện các hành động nghiệp v
 Lớp thứ ba:Data Access Layer(nơi lưu trữ và trích xuất dữ liệu từ các hệ quản trọ CSDL hay các file trng hệ thống. cho Phép tầng Business Logic Layer thực hiện truy vấn dữ liệu)
 </li>
 </ul>
+
+<ul>
+Chú thích
+</ul>
+<ul>
+<li>
+DataTable là dùng để lưu trữ dữ liệu.
+</li>
+<li>ExcuteNonQuery dùng để thực thi các câu truy vấn như INSERT, DELETE, UPDATE. nó trả về kiểu int chính là số dòng trong table của database bị thay đổi bởi 3 lệnh trên</li>
+<li>
+DataGridview là control dùng để hiển thị dữ liệu lên trên giao diện
+</li>
+</ul>
+
