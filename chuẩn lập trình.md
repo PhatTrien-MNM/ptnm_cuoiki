@@ -35,7 +35,8 @@
 	<li>Dấu “ { “  phải được đặt ở dòng kế tiếp sau dòng định nghĩa lớp(hoặc khai báo phương thức)</li>
 	<li>Dấu “ } “ phải được đặt thẳng hàng với dấu “ { “ tương ứng với nó và phải được đặt trên một dòng riêng</li>
 	<li>Giữa tên phương thức và dấu “ ( “ phía sau không có khoảng trắng.</li>
-	<ul>Bên trong một lớp, dữ liệu + phương thức phải được tóm lại và được đặt theo trình tự sau: 
+	<li>Bên trong một lớp, dữ liệu + phương thức phải được tóm lại và được đặt theo trình tự sau: </li>
+	<ul>
 	<li>Biến public</li>
 	<li>Biến cục bộ </li>
 	<li>Phương thức khởi tạo + hủy</li>
@@ -52,6 +53,25 @@
 
 </ul>
 <ul>VIII.	QUI ƯỚC ĐẶT TÊN 
+<ul> 1.	Tên Form
+	<li>Tên lớp phải là danh từ hoặc cụm danh từ</li>
+	<li>Sử dụng cách viết hoa của Pascal  </li>
+	<li>Bắt đầu bằng tiếp đầu ngữ: “ frm “ </li>
+</ul>
+<ul>2.	Tên control trên form 
+	<li>Trên control nên được ngắn gọn, mô tả chức năng và công dụng của control đó trên form </li>
+	<li>Sử dụng cách viết hoa của Pascal  </li>
+	<li>Bắt đầu bằng tiếp đầu ngữ sau đây:  </li>
+	<ul>
+	<li>Button 			btn</li>
+	<li>ComboBox 		cbo</li>
+	<li>Label			lbl  </li>
+	<li>TextBox:		txt</li>
+	<li>DataGridView 		dgv</li>
+	<li>RadioButton		rad</li>
+	<li>GroupBox		grp</li>
+</ul>
+</ul>
 </ul>
 
 
