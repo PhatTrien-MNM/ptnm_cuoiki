@@ -35,13 +35,30 @@
 	<li>Dấu “ { “  phải được đặt ở dòng kế tiếp sau dòng định nghĩa lớp(hoặc khai báo phương thức)</li>
 	<li>Dấu “ } “ phải được đặt thẳng hàng với dấu “ { “ tương ứng với nó và phải được đặt trên một dòng riêng</li>
 	<li>Giữa tên phương thức và dấu “ ( “ phía sau không có khoảng trắng.</li>
-	<li>Bên trong một lớp, dữ liệu + phương thức phải được tóm lại và được đặt theo trình tự sau: 
+	<ul>Bên trong một lớp, dữ liệu + phương thức phải được tóm lại và được đặt theo trình tự sau: 
 	<li>Biến public</li>
 	<li>Biến cục bộ </li>
 	<li>Phương thức khởi tạo + hủy</li>
 	<li>Các hàm xửa lý sự kiện</li>
 	<li>Các hàm tự tạo </li>
-	</li>
+	</ul>
 	
 </ul>
+<ul> VII.	CÂU LỆNH 
+	<li>Mỗi câu lệnh được đặt một dòng riêng</li>
+	<li>Cấu lệnh return cuối hàng nên có dòng trống phía trước  </li>
+	<li>Giữa các phương thức trong một lớp phải có một dòng tách biệt </li>
+	<li>Giữa các phương thức và các thuộc tính phải có 1 dòng trống </li>
+
+</ul>
+<ul>VIII.	QUI ƯỚC ĐẶT TÊN 
+</ul>
+
+
+
+
+
+
+
+
 
