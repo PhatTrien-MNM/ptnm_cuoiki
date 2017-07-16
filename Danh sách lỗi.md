@@ -1,4 +1,4 @@
-﻿**DANH SÁCH LỖI**
+﻿<h4>DANH SÁCH LỖI</h4>
 <hr>
 <ul>Sau kiểm nghiệm phần mềm thì phát hiện:<ul>
 <strong>Danh sách lỗi</strong>
