@@ -53,12 +53,12 @@
 
 </ul>
 <ul>VIII.	QUI ƯỚC ĐẶT TÊN 
-<ul> 1.	Tên Form
+<ul> 1.	Tên Form<
 	<li>Tên lớp phải là danh từ hoặc cụm danh từ</li>
 	<li>Sử dụng cách viết hoa của Pascal  </li>
 	<li>Bắt đầu bằng tiếp đầu ngữ: “ frm “ </li>
 </ul>
-<ul>2.	Tên control trên form 
+<ul>2.	Tên control trên form </ul>
 	<li>Trên control nên được ngắn gọn, mô tả chức năng và công dụng của control đó trên form </li>
 	<li>Sử dụng cách viết hoa của Pascal  </li>
 	<li>Bắt đầu bằng tiếp đầu ngữ sau đây:  </li>
@@ -70,7 +70,7 @@
 	<li>DataGridView 		dgv</li>
 	<li>RadioButton		rad</li>
 	<li>GroupBox		grp</li>
-</ul>
+
 </ul>
 </ul>
 
