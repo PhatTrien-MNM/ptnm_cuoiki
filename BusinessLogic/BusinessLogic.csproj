@@ -42,6 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="dangnhap2.cs" />
     <Compile Include="Phong2.cs" />
     <Compile Include="ThanhVien2.cs" />
     <Compile Include="ThietBi2.cs" />
