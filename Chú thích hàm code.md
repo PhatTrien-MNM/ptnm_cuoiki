@@ -1,4 +1,11 @@
-﻿<li>
+﻿**Chú thích thư viện**
+<li>
+using DataAccess;  // gọi lại lớp Data lớp DataAccess để sử dung.
+</li>
+<li>
+using BusinessLogic;  //gọi lại lớp BusinessLogic để sử dụng.
+</li>
+<li>
 Datatable: là dùng để lưu trữ dữ liệu.
 </li>
 <li>
