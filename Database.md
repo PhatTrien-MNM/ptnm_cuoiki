@@ -1,7 +1,9 @@
 ﻿##File  Database Quản lý phòng họp
-<ul>Bảng PHONGHOP (Phòng họp)
- 
- use QLPH
+<li>
+Bảng PHONGHOP (Phòng họp)
+</li>
+ <ul>
+use QLPH
   go
     create table PHONGHOP
       (
@@ -10,9 +12,11 @@
          Size nvarchar(50) not null
       )
 </ul>
-<ul> Bảng THIETBI (Thiết Bị)
-  
-  use QLPH
+<li>
+Bảng THIETBI (Thiết Bị)
+</li>
+<ul>
+use QLPH
    go
        create table THIETBI
         (
@@ -20,8 +24,11 @@
          TenTB nvarchar(50) not null
         )
 </ul>
-<ul>Bảng TBPHONG (Thiết Bị Phòng)
-  use QLPH
+<li>
+Bảng TBPHONG (Thiết Bị Phòng)
+</li>
+<ul>
+use QLPH
    go
      create table TBPHONG
       (
@@ -32,8 +39,11 @@
         CONSTRAINT Ma PRIMARY KEY (MaTB, MaPhong)
        );
 </ul>
-<ul>Bảng THANHVIEN (Thành Viên)
-  use QLPH
+<li>
+Bảng THANHVIEN (Thành Viên)
+</li>
+<ul>
+use QLPH
    go
      create table THANHVIEN
       (
@@ -45,8 +55,11 @@
         SDT int
       );
 </ul>
-<ul>Bảng NGUOIDUNG (Người Dùng)
-   use QLPH
+<li>
+Bảng NGUOIDUNG (Người Dùng)
+</li>
+<ul>
+use QLPH
     go
       create table NGUOIDUNG
          (
