@@ -1,6 +1,6 @@
-﻿                                        ##**CHUẨN LẬP TRÌNH**##
+﻿                                        ##CHUẨN LẬP TRÌNH##
 
-<ul>I.	**TỔ CHỨC TẬP TIN, THƯ MỤC**
+<ul>I.	TỔ CHỨC TẬP TIN, THƯ MỤC
 	<li>Lưu mỗi lớp trong một tập tin riêng biệt và tên tập tin trùng với tên lớp</li>
 	<li>Mỗi Namespace được đặt trong một thư mục riêng, phân cấp thư mục theo phân cấp của Namespace</li> 	
 </ul>
@@ -53,7 +53,7 @@
 
 </ul>
 <ul>VIII.	QUI ƯỚC ĐẶT TÊN 
-<ul> 1.	Tên Form<
+<ul> 1.	Tên Form
 	<li>Tên lớp phải là danh từ hoặc cụm danh từ</li>
 	<li>Sử dụng cách viết hoa của Pascal  </li>
 	<li>Bắt đầu bằng tiếp đầu ngữ: “ frm “ </li>
@@ -63,14 +63,37 @@
 	<li>Sử dụng cách viết hoa của Pascal  </li>
 	<li>Bắt đầu bằng tiếp đầu ngữ sau đây:  </li>
 	<ul>
-	<li>Button 			btn</li>
-	<li>ComboBox 		cbo</li>
-	<li>Label			lbl  </li>
-	<li>TextBox:		txt</li>
-	<li>DataGridView 		dgv</li>
-	<li>RadioButton		rad</li>
-	<li>GroupBox		grp</li>
-
+	
+<table style="width:35%;">
+            <tr>
+                <td>Button 	</td>
+                <td>btn</td>
+            </tr>
+            <tr>
+                <td>ComboBox </td>
+                <td>cbo</td>
+            </tr>
+            <tr>
+                <td >Label</td>
+                <td >lbl</td>
+            </tr>
+            <tr>
+                <td>TextBox</td>
+                <td>txt</td>
+            </tr>
+            <tr>
+                <td>DataGridView</td>
+                <td>dgv</td>
+            </tr>
+            <tr>
+                <td>RadioButton</td>
+                <td>rad</td>
+            </tr>
+            <tr>
+                <td>GroupBox</td>
+                <td>grp</td>
+            </tr>
+        </table>
 </ul>
 </ul>
 
