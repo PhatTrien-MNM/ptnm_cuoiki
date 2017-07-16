@@ -1,0 +1,5 @@
+E:\visual studio 2012\QuanLyPhongHop\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+E:\visual studio 2012\QuanLyPhongHop\DataAccess\bin\Debug\DataAccess.dll
+E:\visual studio 2012\QuanLyPhongHop\DataAccess\bin\Debug\DataAccess.pdb
+E:\visual studio 2012\QuanLyPhongHop\DataAccess\obj\Debug\DataAccess.dll
+E:\visual studio 2012\QuanLyPhongHop\DataAccess\obj\Debug\DataAccess.pdb
