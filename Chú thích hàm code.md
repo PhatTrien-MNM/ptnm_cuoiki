@@ -41,3 +41,20 @@ public void them(string matb, string tentb)
         }
 </ul>
 </ul>
+<ul>
+//Hàm load mã phòng từ bảng PHONGHOP lên combobox.
+</ul>
+private void NguoiDung_Load(object sender, EventArgs e)
+<ul>
+{
+DataTable dt = new DataTable();
+dt = newnguoidung.hienthi();
+dtgNguoiDung.DataSource = dt;
+DataTable dk = new DataTable();
+dk = newnguoidung.combox();
+CboMaPhong.DisplayMember = "maphong";
+CboMaPhong.ValueMember = "maphong";
+CboMaPhong.DataSource = dk;
+
+}
+</ul>
