@@ -31,5 +31,17 @@
 	<li>Phía sau biến chú thích công dụng của biến</li>
 	
 </ul>
-
+<ul>VI.	ĐỊNH NGHĨA LỚP 
+	<li>Dấu “ { “  phải được đặt ở dòng kế tiếp sau dòng định nghĩa lớp(hoặc khai báo phương thức)</li>
+	<li>Dấu “ } “ phải được đặt thẳng hàng với dấu “ { “ tương ứng với nó và phải được đặt trên một dòng riêng</li>
+	<li>Giữa tên phương thức và dấu “ ( “ phía sau không có khoảng trắng.</li>
+	<ul>Bên trong một lớp, dữ liệu + phương thức phải được tóm lại và được đặt theo trình tự sau: 
+	<li>Biến public</li>
+	<li>Biến cục bộ </li>
+	<li>Phương thức khởi tạo + hủy</li>
+	<li>Các hàm xửa lý sự kiện</li>
+	<li>Các hàm tự tạo </li>
+	</ul>
+	
+</ul>
 
