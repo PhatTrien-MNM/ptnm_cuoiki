@@ -35,7 +35,7 @@ Quản lý thiết bị
 Quản lý phòng họp
 
 <li> Quản lý các thông tin về phòng họp đã có trong công ty như mã phòng họp, số tầng, kích cở của phòng họp. </li>
-<li> Các chức năng như hiển thị, thêm, xóa, sửa,tìm kiếm  các thông tin</li>
+<li> Các chức năng như hiển thị, thêm, xóa, sửa,tìm kiếm các thông tin</li>
 
 Quản lý trang thiết bị phòng họp 
 
