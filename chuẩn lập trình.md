@@ -21,5 +21,15 @@
 	<li>Sau dấu phẩy phải có một khoảng trắng</li>
 
 </ul>
+<ul> IV.	CHÚ THÍCH
+	<li>Chú thích 1 đoạn: sử dụng cắp dấu /*…*/ </li>
+	<li>Chú thích một dòng: sử dụng // </li>
+	
+</ul>
+<ul>V.	KHAI BÁO BIẾN
+	<li>Nên khai báo biến trên một dòng. </li>
+	<li>Phía sau biến chú thích công dụng của biến</li>
+	
+</ul>
 
 
