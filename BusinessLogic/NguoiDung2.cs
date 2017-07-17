@@ -14,7 +14,7 @@ namespace BusinessLogic
       // hàm hiển thị người dùng
        public DataTable hienthi()
        {
-           string sql = " select * from nguoidung";
+           string sql = " select * from nguoidung"; // lấy dữ liệu trong bảng người dùng
            DataTable dt = new DataTable();
            dt = da.getTable(sql);
            return dt;

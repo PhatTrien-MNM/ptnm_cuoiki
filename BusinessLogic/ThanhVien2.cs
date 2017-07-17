@@ -21,6 +21,7 @@ namespace BusinessLogic
             return dt;
 
         }
+       
         public void delete(string matv)
         {
             string sql = " delete thanhvien where matv = '" + matv + "' ";
