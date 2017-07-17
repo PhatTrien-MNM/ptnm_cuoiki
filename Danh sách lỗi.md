@@ -4,3 +4,6 @@
 <strong>Danh sách lỗi</strong>
 <li>Chưa lập được đăng nhập đăng xuất.</li>
 <li>Phần mềm tạm thời chưa phát hiện lỗi.</li>
+<li> chưa hiển thị hình ảnh </li>
+<li> Thường không build khi đã viết xong một class</li>
+<li> Chưa xử lý lỗi rad </li>
