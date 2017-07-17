@@ -11,7 +11,7 @@ namespace BusinessLogic
    public class NguoiDung2
     {
        Data da = new Data();
-      
+      // hàm hiển thị người dùng
        public DataTable hienthi()
        {
            string sql = " select * from nguoidung";
@@ -20,13 +20,14 @@ namespace BusinessLogic
            return dt;
 
        }
+       // hàm xóa một dòng trong bảng người dùng
        public void delete(string mand)
        {
            string sql = " delete nguoidung where mand = '" + mand + "' ";
            da.ExcuteNonQuery(sql);
        }
 
-
+       // hiển thị lên combbox
        public DataTable combox()
        {
            string sql = " select * from phonghop";
